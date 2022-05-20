@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77668750091",
+    "project_id": "noti-1fcdf",
+    "storage_bucket": "noti-1fcdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77668750091:android:0002d7967721efca4e880e",
+        "android_client_info": {
+          "package_name": "com.example.notification_karenpoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77668750091-u9bmdqq94080ck5g40gifrlbfaflrl0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKsnHEOoCrQJbQIOxhaasVD5P7qJNV3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77668750091-u9bmdqq94080ck5g40gifrlbfaflrl0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
